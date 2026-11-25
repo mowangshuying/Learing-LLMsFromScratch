@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.ipynb_checkpoints": true
+    },
+    "files.associations": {
+        "*.md": "markdown"
+    },
+    "jupyter.notebookFileRoot": "${fileDirname}",
+    "[python]": {
+        "editor.formatOnSave": false
+    }
+}
